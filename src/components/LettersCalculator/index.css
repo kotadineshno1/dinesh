@@ -1,0 +1,41 @@
+.bg-container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: lightgreen;
+}
+
+.sub-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 20px;
+}
+
+.text-content {
+  font-size: 35px;
+  color: white;
+  padding: 15px;
+  font-weight: bold;
+}
+
+.para {
+  font-size: 15px;
+  color: white;
+  padding: 15px;
+  font-weight: bold;
+}
+
+.btn {
+  color: green;
+  font-size: 25px;
+  border-radius: 12px;
+  background-color: white;
+  padding: 12px;
+}
+
+.img2 {
+  width: 50%;
+  height: 40%;
+  text-align: center;
+}
